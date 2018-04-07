@@ -2,11 +2,12 @@
 <widget id="com.newformationradio" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>NFR</name>
     <description>
-        A blank PhoneGap app.
+        New Formation Radio
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="contact@themelanation.org" href="http://themelanation.org/">
+        The Mela Nation
     </author>
+	<icon src="icon.png"/>
     <content src="index.html" />
     <access origin="*" />
 </widget>
