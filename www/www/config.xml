@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.newformationradio" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>NewFormationRadio</name> <alias>MNOA</alias>
+    <description>
+        New Formation Radio
+    </description>
+    <author email="contact@themelanation.org" href="http://themelanation.org/">
+        The Mela Nation
+    </author>
+	<icon src="icon.png"/>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
