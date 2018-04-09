@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0.01' encoding='utf-8'?>
 <widget id="com.newformationradio" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>New Formation Radio</name> <alias>NFR</alias>
+    <name>NewFormationRadio</name> <alias>MNOA</alias>
     <description>
         New Formation Radio
     </description>
